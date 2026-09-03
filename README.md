@@ -4,20 +4,6 @@ RouteCart is a mobile in-store shopping route optimization app built with **Reac
 
 > Personal project. Not affiliated with or endorsed by Walmart.
 
-## Demo
-
-A short mobile demo is coming soon.
-
-The demo will show:
-
-```text
-Select Store
-→ Add Shopping List
-→ Automatic Department Classification
-→ Optimized Order
-→ Visual Store Route
-→ Switch Store Layout
-```
 
 ## Features
 
