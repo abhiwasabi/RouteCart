@@ -3,7 +3,11 @@
 RouteCart is a mobile in-store shopping route optimization app built with **React Native, Expo, and TypeScript**. It takes a shopping list, classifies each item into a store-specific department, and generates an optimized route through the selected store.
 
 > Personal project. Not affiliated with or endorsed by Walmart.
+## Demo
 
+![RouteCart mobile demo](./demo/routecart-demo.gif)
+
+[Watch the full-quality mobile demo](./demo/routecart-demo.mp4)
 
 ## Features
 
