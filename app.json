@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "RouteCart",
+    "slug": "routecart",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F9FC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.abhivargheese.routecart"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F9FC"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "RouteCart uses your location and compass heading to guide you through the store."
+        }
+      ],
+      [
+        "expo-sensors",
+        {
+          "motionPermission": "RouteCart uses motion and step data to estimate your movement through the store."
+        }
+      ]
+    ],
+    "scheme": "routecart"
+  }
+}
