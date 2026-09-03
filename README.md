@@ -146,4 +146,4 @@ RouteCart/
 
 ## About
 
-Built as a personal software project by a **Computer Science student at the University of Central Florida with a minor in Data Science**, with a focus on practical optimization, mobile development, and intelligent item classification.
+Built as a personal software project with a focus on practical optimization, mobile development, and intelligent item classification.
